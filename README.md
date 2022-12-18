@@ -1,5 +1,4 @@
-# Labwork
-Members:  
+# Labwork members 
 Huỳnh Bá Đông Cát  
 Nguyễn Nhật Hào  
 Võ Huy Dâng  
