@@ -26,10 +26,10 @@ def modinverse(a, m):
     else:
         return x % m
 
-c= modinverse(37,2019)
+c = modinverse(37,2019)
 print("Modular inverse:",c) #Modular inverse: 382
 
 #c) Find the modular inverse of 37^2 mod 2019^2.
 
-d= modinverse(37**2,2019**2)
+d = modinverse(37**2,2019**2)
 print("Modular inverse:",d) #Modular inverse: 735472
