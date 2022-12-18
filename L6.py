@@ -1,4 +1,4 @@
-    from math import gcd
+from math import gcd
  
 # Function to convert the floating
 # values into fraction
